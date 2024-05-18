@@ -16,5 +16,5 @@ docker run code-assignment
 
 - [Install nodejs](https://nodejs.org/en/download/package-manager)
 - Run `npm install`
-- To see the even todos output run `make run-app`
+- To see the even todos output run `make run-app` or `node index.js`
 - To run tests run `make run-tests` or `npm run test`
